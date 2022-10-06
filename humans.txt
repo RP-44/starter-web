@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ricardo Pereira pereira.pricardo@gmail.com
 
 # THANKS
 
